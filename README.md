@@ -62,7 +62,7 @@ Processed and analyzed unstructured text using tokenization, normalization, stop
 ## Education
 
 **Master of Data Science (M.D.S.)** — University of California, San Diego  
-Expected March 2027
+Expected June 2027
 
 **B.S. Business Economics** — University of California, San Diego  
 December 2025
